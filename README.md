@@ -1,2 +1,6 @@
 # Sandbox
-This is a secondary-learning site for me.
+Sandbox - is a second site that helps me learn html, css and javascript more.
+
+This site will (of course) use HTML, CSS and JS.
+
+# ice cream
