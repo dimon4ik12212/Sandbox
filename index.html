@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sandbox</title>
+    <link rel="stylesheet" href="thing.css">
+</head>
+<body>
+    <footer>
+        <p>Welcome to Sandbox!</p>
+    </footer>
+
+    <h1>This is a sandbox site for dimo (myself). This is a full seperate site rather than the first one.</h1>
+    <br>
+    <h2>this one is a disco-test!</h2>
+    <h3>test</h3>
+    <br>
+    <div style="text-align: center; margin-top: 5px;">
+    <button onclick="countClicks()">Click me!</button>
+    <h3 id="counter">Clicks: 0</h3>
+    </div>
+    <br>
+    <label>Enter your age:</label><br>
+    <input type="text" id="myText"><br>
+    <button type="submit" id="mySubmit">Submit</button>
+    <p id="ResultElement"></p>
+</body>
+<script>
+    let clicks = 0;
+    function countClicks() {
+        clicks = clicks + 1;
+        document.getElementById("counter").innerText = "Clicks: " + clicks;
+        if (clicks === 50) {
+            alert("This is a secret! You were not supposed to see this!");
+        }
+    }
+</script>
+
+<script src="index.js"></script>
+
+</html>
