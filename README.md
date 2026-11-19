@@ -1,6 +1,15 @@
 # Sandbox
-Sandbox - is a second site that helps me learn html, css and javascript more.
 
-This site will (of course) use HTML, CSS and JS.
+My personal playground for testing code, experimenting with layouts, and trying new ideas.
 
-# ice cream
+### Tech Stack:
+`HTML5` • `CSS3` • `JavaScript`
+
+## What's inside:
+- Interactive web experiments and scripts
+- Secondary web practice and layout testing
+- Trying new features before using them in real projects
+
+---
+
+*Part of my coding journey!
