@@ -3,7 +3,7 @@
 My personal playground for testing code, experimenting with layouts, and trying new ideas.
 
 ### Tech Stack:
-`HTML5` • `CSS3` • `JavaScript`
+`HTML` • `CSS` • `JavaScript`
 
 ## What's inside:
 - Interactive web experiments and scripts
